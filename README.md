@@ -7,16 +7,16 @@
 - CSS
 
 ## Features
-- List Movies - [OMDB API]('http://www.omdbapi.com/)
+- List Movies - [OMDB API](http://www.omdbapi.com/)
 - Details of Movie
-    - Trailes - [Youtube Data API]('https://developers.google.com/youtube/v3)
+    - Trailes - [Youtube Data API](https://developers.google.com/youtube/v3)
     - Movie Clips
     - Overview - Title, Plot, Cast, Director, Ratings
-    - Related News - [News API]('https://newsapi.org/')
+    - Related News - [News API](https://newsapi.org/)
     - Credits
 - Search Movie
-- Marvel Characters - [Marvel API]('https://developer.marvel.com/')
-- Entertainment Blog - [News API]('https://newsapi.org/')
+- Marvel Characters - [Marvel API](https://developer.marvel.com/)
+- Entertainment Blog - [News API](https://newsapi.org/)
     - Latest News
     - Movie News
 

@@ -7,10 +7,10 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class MovieService {
-  marvelApiKey = 'adc1f65a2d6a96b2e21b7ad531a74527';
+  marvelApiKey = 'YOUR_API_KEY';
   marvelBaseURL = 'http://gateway.marvel.com/v1/public';
 
-  apiKey = '804e05f0';
+  apiKey = 'YOUR_API_KEY';
   baseURL = 'http://www.omdbapi.com/';
 
   constructor(private httpClient: HttpClient) { }

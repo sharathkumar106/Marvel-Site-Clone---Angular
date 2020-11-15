@@ -8,7 +8,7 @@ import { Injectable } from '@angular/core';
 
 export class NewsService {
     baseUrl = 'http://newsapi.org/v2';
-    apiKey = '69cf1e5fd82c44b59b7ab6bb0676e797';
+    apiKey = 'YOUR_API_KEY';
     constructor(private httpClient: HttpClient) { }
 
     getMovieNews(): Observable<any> {

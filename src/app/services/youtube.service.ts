@@ -7,7 +7,7 @@ import { Injectable } from '@angular/core';
 })
 export class YoutubeService {
 
-    apiKey = 'AIzaSyABWuYjChD-BrUdWJ3vOw7XLKd8p3Vvtlk';
+    apiKey = 'YOUR_API_KEY';
     baseURL = `https://youtube.googleapis.com/youtube/v3/search?&key=${this.apiKey}&order=viewCount&q=`;
 
     constructor(private httpClient: HttpClient) { }

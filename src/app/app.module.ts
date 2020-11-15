@@ -5,11 +5,15 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 import { AppendPipe } from './models/append.pipe';
+import { SafePipe } from './models/safe.pipe';
 import { HeaderComponent } from './components/header/header.component';
 import { HomepageComponent } from './components/homepage/homepage.component';
 import { MoviesComponent } from './components/movies/movies.component';
-import { MovieCastComponent } from './components/movie-cast/movie-cast.component';
 import { CharactersComponent } from './components/characters/characters.component';
+import { MovieDetailsComponent } from './components/movie-details/movie-details.component';
+import { MovieCardComponent } from './components/movie-card/movie-card.component';
+import { FormsModule } from '@angular/forms';
+import { BlogComponent } from './components/blog/blog.component';
 
 @NgModule({
   declarations: [
@@ -17,14 +21,18 @@ import { CharactersComponent } from './components/characters/characters.componen
     HeaderComponent,
     HomepageComponent,
     MoviesComponent,
-    AppendPipe,
     CharactersComponent,
-    MovieCastComponent,
+    MovieDetailsComponent,
+    MovieCardComponent,
+    AppendPipe,
+    SafePipe,
+    BlogComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

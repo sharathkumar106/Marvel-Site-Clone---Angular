@@ -1,0 +1,11 @@
+<div class="movie-card">
+  <a routerLink="/movie/{{movie.imdbID}}" class="movie-card-link">
+    <figure class="movie-card-image">
+      <img src="{{movie.Poster}}" alt="{{movie.Title}}">
+    </figure>
+    <div class="movie-card-body">
+      <p class="title">{{movie.Title | slice:0:35}}</p>
+      <p class="footer">{{movie.Year}}</p>
+    </div>
+  </a>
+</div>

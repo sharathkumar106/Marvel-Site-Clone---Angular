@@ -28,26 +28,26 @@
       font-weight: 700;
       border-radius: 5rem;
       padding: 0 2rem;
-      width: 30%;
+      width: 60%;
       border: none;
       outline: none;
       transition: all .3s ease-in-out;
 
       &:focus {
         border: none;
-        width: 35%;
+        width: 65%;
       }
 
       &::placeholder,
       &::-webkit-input-placeholder {
-        color: lighten($primary,15%);
+        color: lighten($gray, 25%);
         font-weight: 500;
       }
     }
 
     .search-icon {
       background-color: transparent;
-      color: lighten($primary,15%);
+      color: lighten($gray, 25%);
       font-weight: 600;
       border: none;
       overflow: hidden;

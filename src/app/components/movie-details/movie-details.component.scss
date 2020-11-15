@@ -1,0 +1,241 @@
+@import '../../../variables';
+@import '../../../section-header';
+@import '../../../mixins';
+
+.details {
+  display: block;
+  padding: 0;
+
+  .banner {
+    position: relative;
+    left: 0;
+    right: 0;
+    width: $width;
+    max-height: $banner-height;
+
+    .banner-image {
+      margin: 0;
+      clip-path: $banner-clip-path;
+
+      img {
+        width: $width;
+        max-height: $banner-height;
+        object-fit: cover;
+        object-position: center;
+      }
+
+      &::before {
+        content: "";
+        position: absolute;
+        height: 100%;
+        width: $width;
+        background-color: $banner-overlay;
+        opacity: $banner-overlay-opacity;
+      }
+    }
+
+    .banner-text {
+      @include position-middle-screen();
+      color: $white;
+      text-align: center;
+
+      .banner-heading {
+        font-size: 2.5rem;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+      }
+
+      .banner-info {
+        font-size: 1.4rem;
+      }
+    }
+  }
+
+  .section-trailer {
+    position: relative;
+    display: block;
+    padding: 5rem 2rem;
+
+    .trailer-box,
+    .extras {
+      position: relative;
+      height: 25rem;
+      margin-bottom: .5rem;
+
+      iframe {
+        height: 100%;
+        width: 100%;
+        border: none;
+        padding: 0;
+        margin: 0;
+        transition: $card-transition;
+
+        &:hover {
+          box-shadow: $card-shadow;
+          transform: scale(1.01);
+        }
+      }
+
+      img {
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+
+    .extras {
+      height: 12.3rem;
+    }
+
+    .section-content {
+      padding: 0;
+      margin-top: 1rem;
+      color: $black;
+
+      .lead {
+        color: $gray;
+        text-transform: uppercase;
+        font-size: .9rem;
+      }
+
+      .title {
+        font-weight: 900;
+        letter-spacing: 1.2px;
+      }
+
+      .plot {
+        text-align: justify;
+        font-size: .9rem;
+        margin: 0;
+      }
+    }
+  }
+
+  .section-details {
+    position: relative;
+
+    .section-banner {
+      @include section-banner($black);
+    }
+
+    .section-container {
+      position: relative;
+      top: -4rem;
+      background: $white;
+      min-height: 30rem;
+      max-width: 80%;
+      margin: 0 auto;
+      padding: 5rem;
+      font-size: .95rem;
+
+      .plot {
+        color: darken($light, 45%);
+        margin-bottom: 1.5rem;
+      }
+
+      img {
+        display: block;
+        max-height: 400px;
+        width: 80%;
+        margin: 0 auto;
+        background-color: $light;
+        box-shadow: $card-shadow;
+      }
+
+      .metadata {
+        display: inline-block;
+        margin-bottom: .5rem;
+
+        p {
+          margin: 0;
+          text-align: left;
+          font-weight: 700;
+        }
+
+        .label {
+          text-transform: uppercase;
+          color: darken($light, 25%);
+        }
+      }
+    }
+  }
+
+  .section-news {
+    position: relative;
+    display: block;
+    padding: 5rem 2rem;
+
+    .main-article {
+      margin: 0;
+      padding: 0;
+
+      .article-image {
+        padding: 0;
+
+        img {
+          height: 18rem;
+          width: 100%;
+          object-fit: cover;
+          box-shadow: $card-shadow;
+          border: none;
+        }
+      }
+
+      .article-metadata {
+        padding: 0;
+        margin: auto 0;
+        color: $dark;
+        font-weight: 700;
+        font-size: 2rem;
+      }
+    }
+
+    .sub-article {
+      padding: 0;
+      margin: 0;
+      margin-top: 1rem;
+
+      .article {
+        padding: 0;
+        margin: 0;
+        font-size: 1.4rem;
+        letter-spacing: -1px;
+
+        &:not(:last-child) {
+          padding-right: .5rem;
+        }
+
+        img {
+          width: 100%;
+          height: 15rem;
+          background-color: $light;
+          box-shadow: $card-shadow;
+          object-fit: cover;
+        }
+
+        p {
+          margin: 0;
+
+          &.category {
+            padding: .25rem 0;
+            font-size: .9rem;
+          }
+        }
+      }
+    }
+
+    @include metadata-style();
+  }
+
+  .section-banner {
+    @include section-banner($black);
+    @include banner-text($light);
+  }
+
+  .section-credits {
+    p {
+      text-align: center;
+      padding-top: .5rem;
+      border-top: solid 1px $light;
+    }
+  }
+}

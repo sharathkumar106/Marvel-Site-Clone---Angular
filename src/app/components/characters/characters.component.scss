@@ -1,70 +1,61 @@
 @import '../../../variables';
 @import '../../../mixins';
-
+@import '../../../section-header';
 
 .characters {
-  background-color: $white;
-  color: $dark;
-  position: relative;
-  width: 100%;
-  min-height: calc(100vh - 2.5rem - 15px);
-  padding: 15px 0;
-
-  &::-webkit-scrollbar {
-    display: none;
-  }
-
   .banner {
-    position: relative;
-    max-width: 1200px;
-    margin: 0 auto;
-    height: 320px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: $width;
+    max-height: $banner-height;
 
-    &::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: linear-gradient(to left, $black, $gray);
-      opacity: .7;
-      z-index: 1;
-    }
+    .banner-image {
+      margin: 0;
+      clip-path: $banner-clip-path;
 
-    video,
-    img {
-      height: 320px;
-      width: 100%;
-      object-fit: cover;
-    }
+      img {
+        width: $width;
+        max-height: $banner-height;
+        object-fit: cover;
+      }
 
-    .heading {
-      @include position-middle-screen();
-      color: $white;
-      z-index: 10;
-      text-align: center;
-
-      p {
-        font-size: 1.2rem;
-        font-weight: 600;
-        letter-spacing: 1.1px;
+      &::before {
+        content: "";
+        position: absolute;
+        height: 100%;
+        width: $width;
+        background-color: $banner-overlay;
+        opacity: $banner-overlay-opacity;
       }
     }
-  }
 
-  .content {
-    max-width: 1240px;
-    padding-top: 15px;
-    margin: 0 auto;
-    color: inherit;
+    .banner-text {
+      @include position-middle-screen();
+      color: $white;
+      text-align: center;
 
-    &-header h3 {
-      font-size: 1.6rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 1.4px;
+      .banner-heading {
+        font-size: 2.5rem;
+        font-weight: 700;
+        letter-spacing: 1.2px;
+      }
+
+      .banner-info {
+        font-size: 1.4rem;
+      }
     }
+
+    .container {
+      position: relative;
+      top: -3rem;
+      min-height: 20rem;
+      background-color: $white;
+      margin: 0 auto;
+      padding: 3rem 2rem;
+      overflow: hidden;
+    }
+
   }
 
   .character-card {

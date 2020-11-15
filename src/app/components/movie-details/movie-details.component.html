@@ -1,0 +1,128 @@
+<div class="container-fluid details">
+  <!-- Banner Start-->
+  <div class="banner">
+    <figure class="banner-image">
+      <img src="https://source.unsplash.com/1200x500/?marvel,movies,hollywood" alt="Banner">
+    </figure>
+    <div class="banner-text">
+      <h3 class="banner-heading">{{movie.Title}}</h3>
+      <p class="banner-info"><em>{{movie.Year}}</em></p>
+    </div>
+  </div>
+  <!-- Banner End -->
+  <!-- Trailer Start -->
+  <div class="container section-trailer">
+    <h4 class="section-header">Official Trailers</h4>
+    <div class="row">
+      <div class="trailer-box col-sm-12" *ngIf="!trailerExists">
+        <img src="../../../assets/EmptyBox.jpg" alt="Empty">
+      </div>
+      <div class="trailer-box col-sm-12 col-md-8" *ngIf="trailerExists">
+        <iframe [src]="getTrailerLink(0) | safe"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      </div>
+      <div class="extras col-sm-12 col-md-4" *ngIf="trailerExists">
+        <iframe class="col-sm-12" [src]="getTrailerLink(1) | safe"></iframe>
+        <iframe class="col-sm-12" [src]="getTrailerLink(2) | safe"></iframe>
+      </div>
+    </div>
+    <div class="section-content col-sm-10 col-md-8 col-lg-6">
+      <h6 class="lead">Trailers &amp; Extras</h6>
+      <h4 class="title">{{movie.Title || 'N/A'}}</h4>
+      <p class="plot">{{movie.Plot || 'N/A'}}</p>
+    </div>
+  </div>
+  <!-- Trailer End -->
+  <!-- Details Start -->
+  <div class="section-details">
+    <!-- Details Banner -->
+    <div class="section-banner"></div>
+    <!-- Details Container -->
+    <div class="section-container">
+      <h4 class="section-header">Overview</h4>
+      <div class="row">
+        <!-- Metadata -->
+        <div class="col-sm-12 col-md-8">
+          <p class="plot">{{movie.Plot}}</p>
+          <div class="row">
+            <div class="metadata col-sm-6 col-md-4">
+              <p class="label">Directed By</p>
+              <p class="data">{{movie.Director || 'N/A'}}</p>
+            </div>
+            <div class="metadata col-sm-6 col-md-4">
+              <p class="label">Written By</p>
+              <p class="data">{{movie.Writer || 'N/A'}}</p>
+            </div>
+            <div class="metadata col-sm-6 col-md-4">
+              <p class="label">Release Date</p>
+              <p class="data">{{movie.Released || 'N/A'}}</p>
+            </div>
+            <div class="metadata col-sm-6 col-md-4">
+              <p class="label">Production</p>
+              <p class="data">{{movie.Production || 'N/A'}}</p>
+            </div>
+            <div class="metadata col-sm-6 col-md-4">
+              <p class="label">Runtime</p>
+              <p class="data">{{movie.Runtime || 'N/A'}}</p>
+            </div>
+            <div class="metadata col-sm-6 col-md-4">
+              <p class="label">Cast</p>
+              <p class="data">{{movie.Actors || 'N/A'}}</p>
+            </div>
+            <div class="metadata col-sm-6 col-md-12">
+              <p class="label">Ratings</p>
+              <p class="data" *ngFor="let rating of movie.Ratings">{{rating.Source || 'N/A'}} -
+                {{rating.Value || 'N/A'}}
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- Poster -->
+        <div class="col-md-4">
+          <img src="{{movie.Poster}}" alt="{{movie.Title}}">
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Details End -->
+  <!-- Section Banner -->
+  <div class="section-banner">
+    <div class="banner-text">
+      <h3 class="banner-heading">RELATED NEWS</h3>
+    </div>
+  </div>
+  <!-- News Start -->
+  <div class="container section-news">
+    <h4 class="section-header">{{movie.Title}} News</h4>
+    <!-- Main Article -->
+    <div class="row main-article col-12">
+      <div class="article-image col-sm-12 col-md-6">
+        <img src="{{movieArticles[0].urlToImage}}" alt="{{movieArticles[0].title | slice:0:7}}">
+      </div>
+      <div class="article-metadata col-sm-12 col-md-6 px-5">
+        <p class="category">{{movieArticles[0].source.name || 'Latest News'}}</p>
+        <a class="title" href="{{movieArticles[0].url}}"
+          target="_blank">{{movieArticles[0].title | slice:0:55 || 'N/A'}}</a>
+        <p class="description">{{movieArticles[0].description || 'N/A'}}</p>
+      </div>
+    </div>
+    <!-- Sub Articles -->
+    <div class="row sub-article col-12">
+      <figure class="article col-sm-12 col-md-4 mb-3" *ngFor="let article of movieArticles.slice(1,7)">
+        <img src="{{article.urlToImage}}" alt="{{article.title}}">
+        <figcaption>
+          <p class="category">{{article.source.name || 'Entertainment'}}</p>
+          <a class="title" href="{{article.url}}" target="_blank">{{article.title | slice:0:75 || 'N/A'}}</a>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+  <!-- News End -->
+  <!-- Credits Start -->
+  <div class="section-credits">
+    <p><em>Copyright &copy; 2020</em>. All rights reserved. <strong> Sharath Kumar | OMDB API</strong></p>
+  </div>
+  <!-- Credits End -->
+</div>
+<!-- Main End -->

@@ -1,0 +1,28 @@
+.section-header {
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  position: relative;
+  margin-bottom: 40px;
+
+  &::before,
+  &::after {
+    content: "";
+    transform: rotate(-45deg);
+    position: absolute;
+    background-color: $primary;
+    height: 2px;
+    width: 25px;
+  }
+
+  &::before {
+    top: -10px;
+    left: 45px;
+  }
+
+  &::after {
+    top: 35px;
+    left: 0px;
+  }
+}

@@ -1,0 +1,66 @@
+<div class="container-fluid blog">
+  <div class="banner">
+    <figure class="banner-image">
+      <img src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/news_articles-mas_dsk_01.jpg" alt="Banner">
+    </figure>
+    <div class="banner-text">
+      <h3 class="banner-heading">NEWS BLOG</h3>
+    </div>
+    <!-- News Section Start -->
+    <div class="container section-news">
+      <h4 class="section-header">Entertainment News</h4>
+      <!-- Main Article -->
+      <div class="row main-article col-12">
+        <div class="article-image col-sm-12 col-md-6">
+          <img src="{{articles[0].urlToImage}}" alt="{{articles[0].title | slice:0:7}}">
+        </div>
+        <div class="article-metadata col-sm-12 col-md-6 px-5">
+          <p class="category">{{articles[0].source.name || 'Latest News'}}</p>
+          <a class="title" href="{{articles[0].url}}" target="_blank">{{articles[0].title | slice:0:45 || 'N/A'}}</a>
+          <p class="description">{{articles[0].description || 'N/A'}}</p>
+        </div>
+      </div>
+      <!-- Sub Articles -->
+      <div class="row sub-article col-12">
+        <figure class="article col-sm-12 col-md-4 mb-3" *ngFor="let article of articles.slice(1,7)">
+          <img src="{{article.urlToImage}}" alt="{{article.title}}">
+          <figcaption>
+            <p class="category">{{article.source.name || 'Entertainment'}}</p>
+            <a class="title" href="{{article.url}}" target="_blank">{{article.title | slice:0:60 || 'N/A'}}</a>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+    <!-- Banner -->
+    <div class="section-banner">
+      <div class="banner-text">
+        <h3 class="banner-heading">MOVIE NEWS</h3>
+      </div>
+    </div>
+    <!-- Movie News -->
+    <div class="container section-news">
+      <h4 class="section-header">Movie News</h4>
+      <!-- Main Article -->
+      <div class="row main-article col-12">
+        <div class="article-image col-sm-12 col-md-6">
+          <img src="{{movieArticles[0].urlToImage}}" alt="{{movieArticles[0].title | slice:0:7}}">
+        </div>
+        <div class="article-metadata col-sm-12 col-md-6 px-5">
+          <p class="category">{{movieArticles[0].source.name || 'Latest News'}}</p>
+          <a class="title" href="{{movieArticles[0].url}}" target="_blank">{{movieArticles[0].title | slice:0:55 || 'N/A'}}</a>
+          <p class="description">{{movieArticles[0].description || 'N/A'}}</p>
+        </div>
+      </div>
+      <!-- Sub Articles -->
+      <div class="row sub-article col-12">
+        <figure class="article col-sm-12 col-md-4 mb-3" *ngFor="let article of movieArticles.slice(1,7)">
+          <img src="{{article.urlToImage}}" alt="{{article.title}}">
+          <figcaption>
+            <p class="category">{{article.source.name || 'Entertainment'}}</p>
+            <a class="title" href="{{article.url}}" target="_blank">{{article.title | slice:0:75 || 'N/A'}}</a>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</div>

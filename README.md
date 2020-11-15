@@ -9,7 +9,7 @@
 ## Features
 - List Movies - [OMDB API](http://www.omdbapi.com/)
 - Details of Movie
-    - Trailes - [Youtube Data API](https://developers.google.com/youtube/v3)
+    - Trailers - [Youtube Data API](https://developers.google.com/youtube/v3)
     - Movie Clips
     - Overview - Title, Plot, Cast, Director, Ratings
     - Related News - [News API](https://newsapi.org/)

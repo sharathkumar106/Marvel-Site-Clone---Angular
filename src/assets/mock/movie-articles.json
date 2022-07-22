@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 100,
+  "articles": [
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Jon Porter",
+      "title": "Millie Bobby Brown to star in Netflix sci-fi movie directed by the Russo brothers",
+      "description": "Stranger Things star Millie Bobby Brown will star in a new Netflix film directed by the Russo brothers. The Electric State is a retro-futuristic sci-fi movie based on an illustrated book by Simon Stålenhag.",
+      "url": "https://www.theverge.com/2022/6/29/23187813/the-electric-state-millie-bobby-brown-russo-brothers-netflix",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KS0yOSK53X2fBqzIBOeHuTebTEQ=/0x392:5477x3260/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23659416/1397329748.jpg",
+      "publishedAt": "2022-06-29T11:05:56Z",
+      "content": "The Electric State is due to enter production later this year\r\nMillie Bobby Brown at the Stranger Things season 4 premiere.\r\nPhoto by Roy Rochlin/Getty Images\r\nStranger Things Millie Bobby Brown will… [+1836 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Justin Carter",
+      "title": "Taika Waititi's Got No Love (& Thunder) for Director's Cuts",
+      "description": "Since Zack Snyder got to take something of a victory lap with last year’s Zack Snyder’s Justice League, and even when it was still just something for very devoted fans to ceaselessly hope for, there’s been a question of if we’ll get more director’s and extend…",
+      "url": "https://gizmodo.com/taika-waititi-thor-love-thunder-directors-cut-1849162527",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9ce3d5a3c41c1879abbfd35398397959.jpg",
+      "publishedAt": "2022-07-10T18:50:00Z",
+      "content": "Since Zack Snyder got to take something of a victory lap with last years Zack Snyders Justice League, and even when it was still just something for very devoted fans to ceaselessly hope for, theres b… [+2271 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Has Netflix found its Bond? Ryan Gosling stars in spy movie 'The Gray Man' - Reuters.com",
+      "description": "In the new Netflix <a href=\"https://www.reuters.com/companies/NFLX.O\" target=\"_blank\">(NFLX.O)</a> movie \"The Gray Man,\" Ryan Gosling's character jokes that he goes by the name Six because 007 was taken.",
+      "url": "https://www.reuters.com/lifestyle/has-netflix-found-its-bond-ryan-gosling-stars-spy-movie-the-gray-man-2022-07-19/",
+      "urlToImage": "https://www.reuters.com/resizer/Qn86H6fmzScYw8XL_zscfatqgFc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NJT5LH2ZHZP2FO7JCCKZV2PDWI.jpg",
+      "publishedAt": "2022-07-19T10:04:00Z",
+      "content": "LOS ANGELES, July 19 (Reuters) - In the new Netflix (NFLX.O) movie \"The Gray Man,\" Ryan Gosling's character jokes that he goes by the name Six because 007 was taken.\r\nThe film is a big-budget, effect… [+2398 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Catherine Shoard",
+      "title": "James Cameron defends three-hour Avatar sequel: ‘I don’t want whining’",
+      "description": "Director rejects fears that the sequel to record-breaking 2009 blockbuster will be met with apathy, since ‘people binge-watch TV for eight hours!’James Cameron has pre-empted fears that his forthcoming sequel to 2009’s Avatar will be met with apathy when it’s…",
+      "url": "https://amp.theguardian.com/film/2022/jul/06/james-cameron-defends-three-hour-avatar-sequel-i-dont-want-whining",
+      "urlToImage": "https://i.guim.co.uk/img/media/3e48a86cfcc3bed66fd690ddeae40378c7eb3103/124_0_1799_1080/master/1799.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12b0f8ee7195dad42dd911d1935a1ec0",
+      "publishedAt": "2022-07-06T10:41:32Z",
+      "content": "James Cameron has pre-empted fears that his forthcoming sequel to 2009s Avatar will be met with apathy when its released in December.\r\nSpeaking to Empire, Cameron addressed the frequent criticism of … [+1728 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "AA Dowd",
+      "title": "Have we gone from Marvel fatigue to Marvel exhaustion?",
+      "description": "Mixed reviews for Thor: Love and Thunder make it just the latest MCU entry to under-deliver, extending what might be the company’s worst era everHas the Marvel Cinematic Universe entered its flop era? From a box office perspective, certainly not: the mounds o…",
+      "url": "https://amp.theguardian.com/film/2022/jul/12/have-we-gone-from-marvel-fatigue-to-marvel-exhaustion",
+      "urlToImage": "https://i.guim.co.uk/img/media/6770d86aa9712fe2e460c172b4295b08ab0ab805/0_177_2708_1625/master/2708.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e32e4cb66c5e1b9f991fdffb255afca4",
+      "publishedAt": "2022-07-12T19:23:06Z",
+      "content": "Has the Marvel Cinematic Universe entered its flop era? From a box office perspective, certainly not: the mounds of money amassed by Thor: Love and Thunder this past weekend and the records shattered… [+6339 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Sean Keane",
+      "title": "'Thor: Love and Thunder' Review: A Disappointing Marvel Encore for Taika Waititi - CNET",
+      "description": "This shallow Marvel Cinematic Universe blockbuster doesn't give Natalie Portman's mighty return or Christian Bale's creepy baddy nearly enough time to shine.",
+      "url": "https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointing-marvel-encore-for-taika-waititi/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3dec083bc926ca08d1278e52368678c0af8560be/2022/07/01/a2f5a792-077f-4155-9c88-bbd4f26f8f21/thor-love-thunder-characterseries-jane-v2-lg.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-06T16:00:19Z",
+      "content": "Thor: Love and Thunder seemed guaranteed to be a slam dunk. Director Taika Waititi is back at the helm following 2017's immensely entertaining Thor: Ragnarok, with Chris Hemsworth's Asgardian Avenger… [+5913 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BGR" },
+      "author": "Chris Smith",
+      "title": "Iman Vellani says Marvel planted a big Avengers: Endgame leak",
+      "description": "Iman Vellani is Marvel’s newest star, having played Kamala Khan/Ms. Marvel in the recently ended Ms. Marvel TV show on Disney Plus. The actress didn’t just impress us while playing Marvel’s newest teenage superhero. We also witnessed her exuberance and excite…",
+      "url": "https://bgr.com/entertainment/iman-vellani-says-marvel-planted-a-big-avengers-endgame-leak/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/06/ms-marvel-disney-plus.jpg?quality=82&strip=all",
+      "publishedAt": "2022-07-17T20:06:21Z",
+      "content": "Iman Vellani is Marvel’s newest star, having played Kamala Khan/Ms. Marvel in the recently endedMs. Marvel TV show on Disney Plus. The actress didn’t just impress us while playing Marvel’s newest tee… [+3876 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BGR" },
+      "author": "Chris Smith",
+      "title": "Russo brothers tease Avengers: Secret Wars will be bigger than Infinity War and Endgame",
+      "description": "With Thor: Love and Thunder and Ms. Marvel now available, we’ve now seen six MCU Phase 4 movies and seven Marvel Disney Plus shows. And all this time, Marvel went out of its way not to feature the Avengers in any of these projects in a meaningful way. There’s…",
+      "url": "https://bgr.com/entertainment/russo-brothers-tease-avengers-secret-wars-will-be-bigger-than-infinity-war-and-endgame/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/01/avengers-endgame-battle-iron-man-2.jpg?quality=82&strip=all",
+      "publishedAt": "2022-07-15T01:27:00Z",
+      "content": "With Thor: Love and Thunder and Ms. Marvel now available, we’ve now seen six MCU Phase 4 movies and seven Marvel Disney Plus shows. And all this time, Marvel went out of its way not to feature the Av… [+3899 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BGR" },
+      "author": "Chris Smith",
+      "title": "Avengers 5: Russo brothers deny Secret Wars talks with Marvel",
+      "description": "Kevin Feige teased recently that Marvel will soon clarify the MCU’s larger storyline, prompting speculation that the MCU might soon get the first new Avengers story after Endgame. Separately, there’s been increased chatter about Secret Wars being the likely t…",
+      "url": "https://bgr.com/entertainment/russo-brothers-deny-secret-wars-talks-with-marvel/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2022/02/doctor-strange-2-trailer-2-super-bowl-19.jpg?quality=82&strip=all",
+      "publishedAt": "2022-07-19T18:24:55Z",
+      "content": "Kevin Feige teased recently that Marvel will soon clarify the MCU’s larger storyline, prompting speculation that the MCU might soon get the first new Avengers story after Endgame. Separately, there’s… [+3650 chars]"
+    }
+  ]
+}

@@ -1,0 +1,486 @@
+{
+  "status": "ok",
+  "totalResults": 1000,
+  "articles": [
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Stephanie Zacharek",
+      "title": "The Gray Man Saps the Charm Out of Even Chris Evans and Ryan Gosling",
+      "description": "Joe and Anthony Russo's new movie tries to be an over-the-top Mission: Impossible adventure but ends up in a no-man’s land of inconsequence.",
+      "url": "https://time.com/6197515/the-gray-man-review-netflix/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2022/07/TGM_20210419_08108r.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2022-07-15T16:54:43Z",
+      "content": "One of the sad truths of the entertainment world is that the bigger a star you become, the more likely you are to be lured into dumb vehicles that are in some ways, or in all ways, beneath you. Maybe… [+3875 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Boing Boing" },
+      "author": "Devin Nealy",
+      "title": "James Cameron might not direct Avatar 4 & 5",
+      "description": "Being great takes a toll. When James Cameron isn't plunging into the oceanic depths for his personal edification, he's known to direct a blockbuster movie or two. Even though it was unseated by Avengers: Endgame for a little bit, James Cameron's Avatar is sti…",
+      "url": "https://boingboing.net/2022/07/06/james-cameron-might-not-direct-avatar-4-5.html",
+      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/105897632-1557241558937avatar-e1541360922907.jpg?fit=1200%2C675&ssl=1",
+      "publishedAt": "2022-07-06T12:15:04Z",
+      "content": "Being great takes a toll. When James Cameron isn't plunging into the oceanic depths for his personal edification, he's known to direct a blockbuster movie or two. Even though it was unseated by Aveng… [+1564 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Linda Codega",
+      "title": "Natalie Portman on Jane Foster's 'Big' Storyline in Thor: Love and Thunder",
+      "description": "Image: Marvel Studios\r\nIn a new interview with Variety, Natalie Portman got candid about how she felt when she was asked to bulk up for her return role as Jane Foster in Marvel’s Thor: Love and Thunder. “On Black Swan, I was asked to get as small as possible,…",
+      "url": "https://gizmodo.com/natalie-portman-mighty-thor-love-and-thunder-taika-wait-1849093677",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d32de7f1ae432db03c5ed54d1a472dc5.jpg",
+      "publishedAt": "2022-06-22T18:40:00Z",
+      "content": "In a new interview with Variety, Natalie Portman got candid about how she felt when she was asked to bulk up for her return role as Jane Foster in Marvels Thor: Love and Thunder. On Black Swan, I was… [+3125 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Germain Lussier",
+      "title": "Thor: Love and Thunder Is an Uneven, But Worthy Adventure",
+      "description": "The poster for Thor: Love and Thunder\r\nImage: Marvel Studios (Other)\r\nThor: Love and Thunder is what we’d imagine you’d see if you could live inside the head of director Taika Waititi. To Marvel fans, Waititi is best known for Thor: Ragnarok, 2017's bright, b…",
+      "url": "https://gizmodo.com/thor-love-and-thunder-movie-review-thor-4-marvel-mcu-1849105691",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7b9ee21edad2450517756513ccd2ba6c.jpg",
+      "publishedAt": "2022-07-05T13:00:00Z",
+      "content": "Thor: Love and Thunder is what wed imagine youd see if you could live inside the head of director Taika Waititi. To Marvel fans, Waititi is best known for Thor: Ragnarok, 2017's bright, boisterous, h… [+5355 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Joe Allen",
+      "title": "From Thor to Endgame: Every Chris Hemsworth Marvel performance, ranked",
+      "description": "Chris Hemsworth has been in the MCU for more than a decade, and his performance as the Asgard god and mighty Avenger Thor has evolved over that time.",
+      "url": "https://www.digitaltrends.com/movies/chris-hemsworth-marvel-performance-ranked/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/07/Thor-all-MCU-looks-feature.jpg?p=1",
+      "publishedAt": "2022-07-06T16:00:06Z",
+      "content": "Chris Hemsworth has been a member of the Marvel cinematic universe for more than a decade, and in that time, hes played Thor in seven different movies. With the release of Thor: Love &amp; Thunder, h… [+5606 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "David Caballero",
+      "title": "From mighty to meh: the MCU is dying and needs to change fast",
+      "description": "Three years ago, the MCU seemed too big to fail, but inconsistent projects and an increasingly critical fan base are putting its surefire formula into question.",
+      "url": "https://www.digitaltrends.com/movies/mcu-dying-future-suggestions/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/07/endgame-funeral.jpg?p=1",
+      "publishedAt": "2022-07-21T00:00:19Z",
+      "content": "The summer of 2019 delivered what remains arguably the cinematic event of the millennial generation. Avengers: Endgame was the culmination of 11 years of world-building and 22 films, and audiences at… [+11234 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "Guillermo Kurten",
+      "title": "5 video games to play if you liked Thor: Love and Thunder",
+      "description": "Thor: Love and Thunder is finally in theaters, and there are some stellar games for those looking for a similarly action-heavy fix coming out of the movie.",
+      "url": "https://www.digitaltrends.com/movies/video-games-worth-playing-thor-love-and-thunder-mcu/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Guardians-of-the-Galaxy-game.jpg?p=1",
+      "publishedAt": "2022-07-13T19:00:39Z",
+      "content": "Disney and Marvel Studios’ latest superhero endeavor, Thor: Love and Thunder, is finally out in theaters amid a whirlwind of the companies’ releasing superhero projects. But for those still looking t… [+5203 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Digital Trends" },
+      "author": "David Caballero",
+      "title": "With Thor: Love and Thunder, Natalie Portman is finally the superhero",
+      "description": "Natalie Portman is one of cinema's most celebrated and recognizable actresses. With Thor: Love and Thunder, she makes her grand return to the MCU.",
+      "url": "https://www.digitaltrends.com/movies/natalie-portman-career-retrospective/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/07/jane-foster-natalie-portman-thor-love-thunder.jpg?p=1",
+      "publishedAt": "2022-07-06T21:00:40Z",
+      "content": "Few actresses can say they started as child performers working with some of the very best talent and grew up to earn an Oscar and a Harvard degree while starring in the two most successful and influe… [+10748 chars]"
+    },
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Ken W. Hanley",
+      "title": "20 Loose Strings The MCU Needs To Tie Up Before \"Avengers 5\"",
+      "description": "Marvel Studios still has to put some major pieces into place before the next assembly of Earth's Mightiest Heroes.View Entire Post ›",
+      "url": "https://www.buzzfeed.com/kenwhanley/20-things-that-need-to-happen-in-the-mcu",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-07/18/20/campaign_images/b679ab85f6d7/20-things-that-need-to-happen-in-the-mcu-before-t-2-1437-1658176324-19_dblbig.jpg",
+      "publishedAt": "2022-07-19T01:22:19Z",
+      "content": "Walt Disney Studios Motion Pictures / Marvel Studios / Courtesy Everett Collection\r\nLoki. Ultron. Thanos. All stellar villains, and all of which made for amazing foils for the Avengers in their respe… [+605 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "Mira Sydow, Nico Lang, Matthew Schnipper",
+      "title": "‘Minions: The Rise of Gru’ Is the True Cinematic Masterpiece of 2022",
+      "description": "I emerged from the theater with my face damp from tears, vowing to hit up Walmart for a bald cap and a pint of yellow body paint the next day.",
+      "url": "https://www.vice.com/en/article/pkgbkz/minions-the-return-to-in-person-movies-tiktok-trend",
+      "urlToImage": "https://video-images.vice.com/articles/62c88436ad5bce009a268b59/lede/1657311553670-gettyimages-478823354-1.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43NjQyeGg7MHh3LDAuMDY5MXhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+      "publishedAt": "2022-07-11T13:30:00Z",
+      "content": "I didn’t choose to see Minions: The Rise of Gru—rather, it was thrust upon me. As a chronically online human being, I’ve been bombarded with a barrage of photos of minion-kinis (bikinis with minion e… [+5804 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Mike Murphy",
+      "title": "What's Worth Streaming: Here’s everything coming to Netflix in July 2022 (more ‘Stranger Things’!), and what’s leaving",
+      "description": "Get ready for the epic season finale of 'Stranger Things,' Ryan Gosling in 'The Gray Man,' Jane Austen's 'Persuasion,' Lara Condor in 'Boo Bitch' and much more",
+      "url": "https://www.marketwatch.com/story/heres-everything-coming-to-netflix-in-july-2022-more-stranger-things-and-whats-leaving-11655945028",
+      "urlToImage": "https://images.mktw.net/im-569674/social",
+      "publishedAt": "2022-06-23T00:43:00Z",
+      "content": "Heres all you need to know: Netflixs Stranger Things is back July 1, with Part 2 of its fourth season.Stranger Things returned in late May with seven supersized episodes, and will conclude Season 4 w… [+4512 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Mike Murphy",
+      "title": "What's Worth Streaming: ‘Stranger Things’ and beyond: Here’s what’s worth streaming in July 2022",
+      "description": "Part 2 of Netflix's smash hit has fans abuzz, but there's a lot more on the way, including the action movie 'The Gray Man,' the return of 'What We Do in the Shadows' and the 'Ms. Marvel' season finale.",
+      "url": "https://www.marketwatch.com/story/stranger-things-and-beyond-heres-whats-worth-streaming-in-july-2022-11656525023",
+      "urlToImage": "https://images.mktw.net/im-571839/social",
+      "publishedAt": "2022-06-29T17:50:00Z",
+      "content": "Stranger Things may have all the hype, but theres plenty more to stream in July.The hugely anticipated season finale of the Netflix smash hit lands just in time for the Fourth of July weekend, but th… [+16911 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Meara Isenberg",
+      "title": "'Stranger Things' Star Millie Bobbie Brown, Russo Brothers Team Up on New Netflix Movie - CNET",
+      "description": "The Avengers: Endgame directors will helm Netflix sci-fi movie The Electric State.",
+      "url": "https://www.cnet.com/culture/entertainment/stranger-things-star-millie-bobbie-brown-russo-brothers-team-up-on-new-netflix-movie/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3dcb1acceeba57bef2fd1b371c639a4c095c2803/2022/06/29/34675728-7690-4031-afea-88fc6fdc46d3/gettyimages-1397284058.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-06-29T15:44:38Z",
+      "content": "A new Netflix sci-fi movie starring Stranger Things megastar Millie Bobbie Brown and helmed by Marvel Studios directing duo the Russo Brothers is on the way. The Electric State adapts a 2020 illustra… [+1053 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Caitlin Petrakovitz",
+      "title": "Deadpool Is on Disney Plus, but Not Part of the Official MCU. Yet - CNET",
+      "description": "He's barely even part of the X-Men (he's a trainee!), but he could very well someday be an Avenger.",
+      "url": "https://www.cnet.com/culture/entertainment/deadpool-on-disney-plus-is-not-part-of-the-mcu-avengers-yet-fox-disney-deal/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ed55004fb7a936c968cac3807d820c5edd775783/2016/08/12/ff55ed51-7f04-41fe-a4f6-cc342b79d42d/deadpool-6.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-21T18:38:00Z",
+      "content": "Deadpool is not an Avenger. \r\nYet.\r\nDeadpool is not an X-Men (X-Man?).\r\nYet.\r\nDeadpool is a mercenary with his own agenda and zero rules.\r\nDeadpool is a part of the Marvel comics universe. \r\nAnd even… [+2538 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Sean Keane",
+      "title": "'Thor: Love and Thunder': Post-Credits Scenes and Marvel Hero Cameos Explained - CNET",
+      "description": "The extra scenes introduce a potential future adversary and an old Asgardian friend.",
+      "url": "https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-hero-cameos-explained/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7fdffd14695aff0fcc842ec0a3cb80370f03834d/2022/07/09/7617cf81-dd04-4036-8a02-beb7bd6450f3/thor-love-and-thunder-jasin-boland-tbs-02140-r3-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-11T16:00:06Z",
+      "content": "Thor: Love and Thunder is in theaters now. It's the Asgardian Avenger's fourth solo adventure, claiming its place as the 29th Marvel Cinematic Universe movie. It sees director Taika Waititi, who also… [+6189 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Sean Keane",
+      "title": "'Thor: Love and Thunder' Post-Credits Scenes, Explained - CNET",
+      "description": "The mid-credits scene introduces a potential future adversary, while the post-credits one reunites us with an old Asgardian friend.",
+      "url": "https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-explained/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/7fdffd14695aff0fcc842ec0a3cb80370f03834d/2022/07/09/7617cf81-dd04-4036-8a02-beb7bd6450f3/thor-love-and-thunder-jasin-boland-tbs-02140-r3-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-11T16:22:52Z",
+      "content": "Thor: Love and Thunder is in theaters now. It's the Asgardian Avenger's fourth solo adventure, claiming its place as the 29th Marvel Cinematic Universe movie. It sees director Taika Waititi, who also… [+6189 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Sean Keane",
+      "title": "'Doctor Strange 2' Illuminati Explained: What Happens to The Movie's Elite Marvel Heroes? - CNET",
+      "description": "Multiverse of Madness, which is available to stream on Disney Plus, introduces a group of iconic characters. Let's dive in to their fascinating histories and fates.",
+      "url": "https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-the-movies-elite-marvel-heroes/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/57b3b907eb3305f35d68a92276ac06f9258114a5/2022/02/13/2cd79c56-4007-446f-897c-4adbd05a96c4/doctor-strange-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-03T02:00:06Z",
+      "content": "\"Stephen Strange, the Illuminati will see you now,\" says Karl Mordo in Doctor Strange in the Multiverse of Madness, ahead of an encounter with a mysterious group of superheroes. The 28th Marvel Cinem… [+10484 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Sean Keane",
+      "title": "'Doctor Strange 2' Illuminati Explained: What Happens to The Marvel Movie's Elite Heroes? - CNET",
+      "description": "The Multiverse of Madness, which is available to stream on Disney Plus, introduces a group of iconic characters. Let's dive in to their fascinating histories and fates.",
+      "url": "https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-the-marvel-movies-elite-heroes/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/57b3b907eb3305f35d68a92276ac06f9258114a5/2022/02/13/2cd79c56-4007-446f-897c-4adbd05a96c4/doctor-strange-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-04T02:00:02Z",
+      "content": "\"Stephen Strange, the Illuminati will see you now,\" says Karl Mordo in Doctor Strange in the Multiverse of Madness, ahead of an encounter with a mysterious group of superheroes. The 28th Marvel Cinem… [+10488 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Sean Keane",
+      "title": "'Doctor Strange 2' Illuminati Explained: What Happens to This Marvel Movie's Elite Heroes? - CNET",
+      "description": "The Multiverse of Madness, which is available to stream on Disney Plus, introduces a group of iconic characters. Let's dive in to their fascinating histories and cinematic fates.",
+      "url": "https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-this-marvel-movies-elite-heroes/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/57b3b907eb3305f35d68a92276ac06f9258114a5/2022/02/13/2cd79c56-4007-446f-897c-4adbd05a96c4/doctor-strange-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-05T02:00:02Z",
+      "content": "\"Stephen Strange, the Illuminati will see you now,\" says Karl Mordo in Doctor Strange in the Multiverse of Madness, ahead of an epic encounter with a mysterious group of superheroes. The 28th Marvel … [+10489 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Sean Keane",
+      "title": "'Thor: Love and Thunder' Review: Taika Waititi's Marvel Encore is Disappointingly Shallow - CNET",
+      "description": "This Marvel Cinematic Universe blockbuster doesn't give Natalie Portman's mighty return or Christian Bale's creepy baddy enough time to shine.",
+      "url": "https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-marvel-encore-is-disappointingly-shallow/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3dec083bc926ca08d1278e52368678c0af8560be/2022/07/01/a2f5a792-077f-4155-9c88-bbd4f26f8f21/thor-love-thunder-characterseries-jane-v2-lg.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-07T17:00:16Z",
+      "content": "Thor: Love and Thunder seemed guaranteed to be a slam dunk. Director Taika Waititi is back at the helm following 2017's immensely entertaining Thor: Ragnarok, with Chris Hemsworth's Asgardian Avenger… [+5914 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Richard Trenholm",
+      "title": "'Zach Snyder's Justice League' Coming to Digital, If You Have Four Hours to Spare - CNET",
+      "description": "You don't need an HBO Max subscription to watch the Snyder cut, a long-awaited but messy version of DC's epic.",
+      "url": "https://www.cnet.com/culture/entertainment/snyder-cut-justice-league-hbo-max-movie-review-digital-four-hours-to-spare/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ba46a0a9e5a5b30006d5568b7fdb93903d4faabe/2017/11/15/33c423a6-8871-4a51-9b24-2208fca5a3d4/justice-league-dc-flash-batman-wondr-woman-2-hero.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-06-30T08:45:22Z",
+      "content": "When DC's Justice League came out in theaters, it was rather different to what original director Zack Snyder intended. So the Snyder Cut of Justice League makes up for that, expanding the flick to fo… [+8953 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Gregori Pujol",
+      "title": "Le Gant de l’Infini Thanos en LEGO est à prix sacrifié chez Amazon !",
+      "description": "Amazon sacrifie le prix du set LEGO Gant de l’Infini Thanos durant le Prime Day, un must have pour les fans de Marvel.\nLe Gant de l’Infini Thanos en LEGO est à prix sacrifié chez Amazon !",
+      "url": "https://www.journaldugeek.com/2022/07/12/le-gant-de-linfini-thanos-en-lego-est-a-prix-sacrifie-chez-amazon/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/12/legothanos.jpg",
+      "publishedAt": "2022-07-12T08:50:10Z",
+      "content": "Amazon sacrifie le prix du set LEGO Gant de lInfini Thanos durant le Prime Day, un must have pour les fans de Marvel.Mesurant plus de 31 cm de haut, 13 cm de large et 11 cm de profondeur, ce set LEGO… [+2530 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Arthur Nicolle",
+      "title": "Aller voir les Minions en costard est désormais interdit",
+      "description": "Ce n’est pas une mauvaise blague digne du film mais une véritable règle : il n’est plus possible d’aller en costard pour le film Les Minions 2, mais pourquoi \nAller voir les Minions en costard est désormais interdit",
+      "url": "https://www.journaldugeek.com/2022/07/05/aller-voir-les-minions-en-costard-est-desormais-interdit/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/07/copie-de-ajouter-un-titre-4.jpg",
+      "publishedAt": "2022-07-05T08:00:58Z",
+      "content": "Ce nest pas une mauvaise blague digne du film mais une véritable règle : il nest plus possible daller en costard pour le film Les Minions 2, mais pourquoiLes Minions font partie intégrante de la cult… [+2513 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Julie Hay",
+      "title": "Netflix : Stranger Things et Resident Evil, voici le programme de juillet",
+      "description": "L'été sera chaud sur Netflix. Séries et films, découvrez le programme du mois de juillet sur la plateforme. \nNetflix : Stranger Things et Resident Evil, voici le programme de juillet",
+      "url": "https://www.journaldugeek.com/2022/06/24/netflix-stranger-things-et-resident-evil-voici-le-programme-de-juillet/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/06/mai-2022.jpg",
+      "publishedAt": "2022-06-24T15:30:18Z",
+      "content": "L'été sera chaud sur Netflix. Séries et films, découvrez le programme du mois de juillet sur la plateforme.Pour cet été, Netflix a de nombreuses productions en stock. La plateforme veut sans doute s’… [+3372 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Julie Hay",
+      "title": "Thor 4 : faut-il avoir vu les séries et les films Marvel ?",
+      "description": "Voici ce qu'il faut savoir avant de voir Thor : Love and Thunder au cinéma. Pas besoin d'être un fan de Marvel pour le découvrir. \nThor 4 : faut-il avoir vu les séries et les films Marvel ?",
+      "url": "https://www.journaldugeek.com/2022/07/08/thor-4-faut-il-avoir-vu-les-series-et-les-films-marvel/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/jdg15.jpg",
+      "publishedAt": "2022-07-08T11:00:01Z",
+      "content": "Voici ce qu'il faut savoir avant de voir Thor : Love and Thunder au cinéma. Pas besoin d'être un fan de Marvel pour le découvrir.Le Marvel Cinematic Universe ressemble à un véritable sac de nuds pour… [+4194 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Journal du geek" },
+      "author": "Julie Hay",
+      "title": "Avatar 4 et 5 : James Cameron va-t-il passer le relais ?",
+      "description": "La saga Avatar est chronophage pour James Cameron. Sera-t-il à la réalisation de tous les prochains opus ? \nAvatar 4 et 5 : James Cameron va-t-il passer le relais ?",
+      "url": "https://www.journaldugeek.com/2022/07/05/avatar-4-et-5-un-nouveau-realisateur-pour-la-saga-de-james-cameron/",
+      "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/template-jdg-2022-05-03t092042-887.jpg",
+      "publishedAt": "2022-07-05T09:00:38Z",
+      "content": "La saga Avatar est chronophage pour James Cameron. Sera-t-il à la réalisation de tous les prochains opus ?13 ans. C’est le temps qu’il aura fallu attendre avant de retrouver la saga Avatar sur nos éc… [+3886 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Manon Carpentier",
+      "title": "Voici ce que vous devez absolument avoir vu avant Thor : Love and Thunder",
+      "description": "Ce mercredi 13 juillet 2022, vous allez pouvoir découvrir le tout dernier film du MCU, Thor : Love and Thunder, dans les salles obscures. Zoom sur les films et séries Marvel à voir avant de retrouver notre bon vieux Thor au cinéma.",
+      "url": "https://www.presse-citron.net/voici-ce-que-vous-devez-absolument-avoir-vu-avant-thor-love-and-thunder/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/07/thor-4-love-thunder.jpg",
+      "publishedAt": "2022-07-11T15:15:45Z",
+      "content": "Cinq ans après Thor : Ragnarok, notre super-héros nordique revient dans Thor : Love and Thunder dès cette semaine dans nos salles de cinéma. Mais comme tout bon film de lUnivers Cinématographique de … [+5720 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Presse-citron" },
+      "author": "Manon Carpentier",
+      "title": "Netflix fait appel à une actrice que vous connaissez bien pour son prochain film",
+      "description": "Après Stranger Things ou encore Enola Holmes, Millie Bobby Brown sera à l’affiche d’un nouveau film sur Netflix. Direction un monde post-apocalyptique…",
+      "url": "https://www.presse-citron.net/netflix-fait-appel-a-une-actrice-que-vous-connaissez-bien-pour-son-prochain-film/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2022/06/netflix-millie-bobby-brown.jpg",
+      "publishedAt": "2022-06-30T17:00:40Z",
+      "content": "On pourrait dire que Millie Bobby Brown est la coqueluche de Netflix. Linterprète de liconique Eleven (Onze) dans Stranger Things depuis 2016 a également prêté ses traits à lintrépide Enola Holmes, q… [+1874 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Eddie Makuch",
+      "title": "Paul Rudd Addresses Why Ant-Man Didn't Fly Up Thanos' Butt To Kill Him",
+      "description": "Actor Paul Rudd has addressed the popular fan theory that Ant-Man could have shrunk down, flown up Thanos' butt (or, really, any other of the villain's orifices), and obliterated him from the inside.Rudd appears in a video aboard the newly christened Disney W…",
+      "url": "https://www.gamespot.com/articles/paul-rudd-addresses-why-ant-man-didnt-fly-up-thanos-butt-to-kill-him/1100-6505031/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/3998943-screenshot2022-06-30at4.10.21pm.png",
+      "publishedAt": "2022-07-01T12:08:00Z",
+      "content": "Actor Paul Rudd has addressed the popular fan theory that Ant-Man could have shrunk down, flown up Thanos' butt (or, really, any other of the villain's orifices), and obliterated him from the inside.… [+1578 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Eric Frederiksen",
+      "title": "Russo Bros Still Dreaming About Directing Marvel's Secret Wars Storyline",
+      "description": "The Russo brothers, Joe and Anthony, have helmed some of Marvel's biggest and most successful films. After putting together Avengers: Infinity War and Endgame, the two stepped away, seemingly for good. But could they come back? The right project, Marvel's Sec…",
+      "url": "https://www.gamespot.com/articles/russo-bros-still-dreaming-about-directing-marvels-secret-wars-storyline/1100-6505509/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1603/16030002/4005011-marvel-secret-wars.jpg",
+      "publishedAt": "2022-07-14T22:31:00Z",
+      "content": "The Russo brothers, Joe and Anthony, have helmed some of Marvel's biggest and most successful films. After putting together Avengers: Infinity War and Endgame, the two stepped away, seemingly for goo… [+3913 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Darryn Bonthuys",
+      "title": "PlayStation Plus Adds A PSP Puzzle Classic To Its Library Today",
+      "description": "It's a big week for PlayStation Plus as the newly revamped games catalog is getting a library refresh. Stray, Assassin's Creed IV Black Flag, and Final Fantasy VII Remake Intergrade are just some of the games being added for PS Extra and Premium subscribers, …",
+      "url": "https://www.gamespot.com/articles/playstation-plus-adds-a-psp-puzzle-classic-to-its-library-today/1100-6505590/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4006468-echoshift-2.jpg",
+      "publishedAt": "2022-07-19T14:41:00Z",
+      "content": "It's a big week for PlayStation Plus as the newly revamped games catalog is getting a library refresh. Stray, Assassin's Creed IV Black Flag, and Final Fantasy VII Remake Intergrade are just some of … [+2632 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Eddie Makuch",
+      "title": "Avatar 4 Is A \"Motherf**ker,\" James Cameron Says, But He Might Not Direct It (If It Even Gets Made)",
+      "description": "James Cameron has shared new details on his Avatar series, saying in an interview that he's very excited for Avatar 4, in particular, but he's not sure it'll ever be made. Speaking to Empire, the Oscar-winning Titanic director shared some thoughts on where th…",
+      "url": "https://www.gamespot.com/articles/avatar-4-is-a-motherfker-james-cameron-says-but-he-might-not-direct-it-if-it-even-gets-made/1100-6505086/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/3999930-screenshot2022-07-05at8.45.21am.png",
+      "publishedAt": "2022-07-05T12:37:00Z",
+      "content": "James Cameron has shared new details on his Avatar series, saying in an interview that he's very excited for Avatar 4, in particular, but he's not sure it'll ever be made. Speaking to Empire, the Osc… [+2019 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Eddie Makuch",
+      "title": "Thor: Love And Thunder Has Big International Box Office Debut",
+      "description": "Thor: Love and Thunder opens in theaters this Friday, July 8, and to little surprise, it's expected to have a very big opening weekend. The superhero movie is projected to bank as much as $300 million worldwide.This includes between $140 million-$160 million …",
+      "url": "https://www.gamespot.com/articles/thor-love-and-thunder-has-big-international-box-office-debut/1100-6505161/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4000995-screenshot2022-07-06at3.04.39pm.png",
+      "publishedAt": "2022-07-08T13:09:00Z",
+      "content": "Thor: Love and Thunder opens in theaters this Friday, July 8, and to little surprise, it's expected to have a very big opening weekend. The superhero movie is projected to bank as much as $300 millio… [+2182 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Chris E. Hayner",
+      "title": "How That NSFW Ant-Man And Thanos Theory Became MCU Canon",
+      "description": "When the first preview voyages for Disney Cruise Line's newest ship, the Disney Wish, took to the ocean, there was an interesting and slightly disturbing piece of Marvel Cinematic Universe information given to the world. During the Worlds of Marvel dining exp…",
+      "url": "https://www.gamespot.com/articles/how-that-nsfw-ant-man-and-thanos-theory-became-mcu-canon/1100-6505577/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1578/15789737/4006320-antman.jpg",
+      "publishedAt": "2022-07-18T21:15:00Z",
+      "content": "When the first preview voyages for Disney Cruise Line's newest ship, the Disney Wish, took to the ocean, there was an interesting and slightly disturbing piece of Marvel Cinematic Universe informatio… [+3075 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Eddie Makuch",
+      "title": "Thor: Love And Thunder Review Roundup",
+      "description": "Reviews for Marvel's next big movie, Thor: Love and Thunder, have begun to appear online ahead of the film's release this Friday, July 8. Critics are weighing in, and the overall sentiment is mixed.You can see a sampling of review excerpts and scores below, i…",
+      "url": "https://www.gamespot.com/articles/thor-love-and-thunder-review-roundup/1100-6505094/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/3999969-screenshot2022-07-05at11.00.57am.png",
+      "publishedAt": "2022-07-05T14:32:00Z",
+      "content": "Reviews for Marvel's next big movie, Thor: Love and Thunder, have begun to appear online ahead of the film's release this Friday, July 8. Critics are weighing in, and the overall sentiment is mixed.\r… [+6197 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "Katie Chow",
+      "title": "Julius Onah to direct Captain America 4",
+      "description": "As confirmed by The Hollywood Reporter, the fourth Captain America movie has found a director. Julius Onah is set to introduce Sam Wilson’s new title on the big screen after the one-time Falcon inherited the shield from Steve Rogers (Chris Evans) in Avengers:…",
+      "url": "https://www.avclub.com/julius-onah-is-directing-captain-america-4-1849159384",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/912b95ac0ccbfe88faae4bffb7bca2df.jpg",
+      "publishedAt": "2022-07-08T21:50:00Z",
+      "content": "As confirmed by The Hollywood Reporter, the fourth Captain America movie has found a director. Julius Onah is set to introduce Sam Wilsons new title on the big screen after the one-time Falcon inheri… [+1822 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "William Hughes",
+      "title": "Chris Evans politely reminds doubters: \"Sam Wilson is Captain America\"",
+      "description": "Some new news broke yesterday for Marvel’s long-in-the-works fourth Captain America movie, i.e., the announcement that The Cloverfield Paradox’s Julius Onah had signed on to direct Anthony Mackie’s first full movie in the title role.Read more...",
+      "url": "https://www.avclub.com/chris-evans-reminds-doubters-sam-wilson-is-captain-am-1849161493",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2f8c20e7912dfa42608cae17ff3b02bc.jpg",
+      "publishedAt": "2022-07-09T21:18:00Z",
+      "content": "Some new news broke yesterday for Marvels long-in-the-works fourth Captain America movie, i.e., the announcement that The Cloverfield Paradoxs Julius Onah had signed on to direct Anthony Mackies firs… [+1799 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "Katie Chow",
+      "title": "Channing Tatum replaces Chris Evans in Project Artemis",
+      "description": "After his sojourn to Pussy Island, Channing Tatum will be replacing Chris Evans in the upcoming Apple TV+ film Project Artemis, co-starring opposite Scarlett Johansson. As reported by Deadline, the Captain America actor is no longer available due to his commi…",
+      "url": "https://www.avclub.com/channing-tatum-replaces-chris-evans-project-artemis-1849179767",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/532d7326dc5cf222e2ac91a6969ae1f7.jpg",
+      "publishedAt": "2022-07-14T20:36:00Z",
+      "content": "After his sojourn to Pussy Island, Channing Tatum will be replacing Chris Evans in the upcoming Apple TV+ film Project Artemis, co-starring opposite Scarlett Johansson. As reported by Deadline, the C… [+1632 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "William Hughes",
+      "title": "Russo Brothers once again dare the universe to make them make a Secret Wars movie",
+      "description": "The Russo Brothers have a new film coming out shortly, reuniting with their old pal Chris Evans (and teaming up with brand new pal Ryan Gosling) for Netflix thriller The Gray Man. Which means that the Russos (Joe and Anthony, if you’re on a first name basis) …",
+      "url": "https://www.avclub.com/russo-brothers-marvel-secret-wars-the-gray-man-1849176919",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/54b2a14024e1d2376015ca61f2bc6312.jpg",
+      "publishedAt": "2022-07-14T04:29:00Z",
+      "content": "The Russo Brothers have a new film coming out shortly, reuniting with their old pal Chris Evans (and teaming up with brand new pal Ryan Gosling) for Netflix thriller The Gray Man. Which means that th… [+1542 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "Hattie Lindert",
+      "title": "James Cameron has heard quite enough from Avatar runtime haters",
+      "description": "In the era of the Great American TV Binge Watch, James Cameron is sick of hearing complaints about his three-hour epics. Now that it’s socially acceptable to devour a days worth of Stranger Things episodes the second they’re released, the Avatar: The Way of W…",
+      "url": "https://www.avclub.com/james-cameron-has-heard-enough-about-avatar-runtime-1849142177",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/801969ed28c5abb7da344e847b5aca75.jpg",
+      "publishedAt": "2022-07-05T14:45:00Z",
+      "content": "In the era of the Great American TV Binge Watch, James Cameron is sick of hearing complaints about his three-hour epics. Now that its socially acceptable to devour a days worth of Stranger Things epi… [+2193 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The A.V. Club" },
+      "author": "Saloni Gajjar",
+      "title": "5 things you have to watch on TV this weekend",
+      "description": "Welcome to the weekend edition of What’s On. Here are the big things happening on TV from Friday, July 22 to Sunday, July 24. All times are Eastern. [Note: The weekly What’s On will publish on Sundays.]Read more...",
+      "url": "https://www.avclub.com/whats-on-tv-july-22-24-the-gray-man-trying-season-3-1849194296",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/179a4b1fb81799cae800c3c7734f450c.png",
+      "publishedAt": "2022-07-22T08:00:00Z",
+      "content": "Welcome to the weekend edition of Whats On. Here are the big things happening on TV from Friday, July 22 to Sunday, July 24. All times are Eastern. [Note: The weekly Whats On will publish on Sundays.… [+3289 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Mental Floss" },
+      "author": "Dan Selcke",
+      "title": "Chris Evans Would Return as Captain America If It Was 'Perfect'",
+      "description": "The Marvel actor has left the possibility of reprising his role open.",
+      "url": "https://www.mentalfloss.com/posts/chris-evans-reprise-captain-america",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3000,h_1687,x_0,y_243/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01g6k7pa1wtpjba75d9m.jpg",
+      "publishedAt": "2022-07-04T12:00:00Z",
+      "content": "Marvel lets go of character very reluctantly. (SPOILER!) Iron Man and Black Widow died in 2019's Avengers: Endgame, but only after actors Robert Downey Jr. and Scarlett Johansson were well and truly … [+1160 chars]"
+    },
+    {
+      "source": { "id": null, "name": "HYPEBEAST" },
+      "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+      "title": "'Black Panther: Wakanda Forever' Promo Art Surfaces, Debuting and Shuri's New Look",
+      "description": "Marvel has kept any developments of the Black Panther: Wakanda Forever film under wraps for some time. While not much detail has been revealed, new promotional art for the sequel has surfaced online featuring Letitia Wright's character Shuri alongside Dania G…",
+      "url": "https://hypebeast.com/2022/7/black-panther-wakanda-forever-promo-art-shuri-new-look",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F07%2Fblack-panther-wakanda-forever-promo-art-shuri-new-look-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2022-07-06T15:14:04Z",
+      "content": "Marvel has kept any developments of the Black Panther: Wakanda Forever film under wraps for some time. While not much detail has been revealed, new promotional art for the sequel has surfaced online … [+991 chars]"
+    },
+    {
+      "source": { "id": null, "name": "/FILM" },
+      "author": "Sandy Schaefer",
+      "title": "What You Need To Remember Before Watching Thor: Love And Thunder",
+      "description": "I recently sat down with my dad — who really enjoys the (underrated) first \"Doctor Strange\" movie — to watch the sequel \"Doctor Strange in the Multiverse of Madness.\" It was going well until Wanda Maximoff showed up, at which my dad turned to me confused, ask…",
+      "url": "https://www.slashfilm.com/919038/what-you-need-to-remember-before-watching-thor-love-and-thunder/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/what-you-need-to-remember-before-watching-thor-love-and-thunder/l-intro-1657144372.jpg",
+      "publishedAt": "2022-07-06T21:54:40Z",
+      "content": "We'll be here all day if we try to break down everything that happens in \"Avengers: Infinity War\" and \"Avengers: Endgame,\" much less what's good and what's bad about the Russo Brothers' two-part clim… [+1467 chars]"
+    },
+    {
+      "source": { "id": null, "name": "/FILM" },
+      "author": "Joshua Meyer",
+      "title": "Kevin Feige Teases 'Plenty Of Other Incarnations Of Thor' That We've Yet To See",
+      "description": "In \"Thor: Love and Thunder,\" there's a new Thor in town and her name is Jane Foster. After sitting out the three-quel, \"Thor: Ragnarok,\" Natalie Portman's character is back and she's buffed up, sporting goldilocks, and wielding Thor's hammer. As it turns out,…",
+      "url": "https://www.slashfilm.com/908078/kevin-feige-teases-plenty-of-other-incarnations-of-thor-that-weve-yet-to-see/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/kevin-feige-teases-plenty-of-other-incarnations-of-thor-that-weve-yet-to-see/l-intro-1656334637.jpg",
+      "publishedAt": "2022-06-27T13:10:40Z",
+      "content": "Hemsworth's Thor is certainly a character who we've seen \"grow and evolve and change,\" as Feige says. You can see this not only in his solo franchise's shift to a more comedic tone, but in the emotio… [+1452 chars]"
+    },
+    {
+      "source": { "id": null, "name": "/FILM" },
+      "author": "Erin Brady",
+      "title": "Thor: Love And Thunder Trailer Breakdown: Putting Together The Greatest Team Ever",
+      "description": "With two weeks until it premieres in theaters, we've got another new look at \"Thor: Love and Thunder.\" While not as detailed as previous trailers (this snippet has no signs of Russell Crowe as Zeus), it does shine a new light on the epic team-up being made to…",
+      "url": "https://www.slashfilm.com/905481/thor-love-and-thunder-trailer-breakdown-putting-together-the-greatest-team-ever/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/thor-love-and-thunder-trailer-breakdown-putting-together-the-greatest-team-ever/l-intro-1656009098.jpg",
+      "publishedAt": "2022-06-23T18:34:45Z",
+      "content": "These guys just can't catch a break, can they? Every time the Guardians seem to have the chance at just exploring the galaxy, they get pulled into some sort of potentially devastating conflict. It ev… [+769 chars]"
+    },
+    {
+      "source": { "id": null, "name": "/FILM" },
+      "author": "Witney Seibold",
+      "title": "Marvel Comics Creators Who Deserve Credit From The MCU",
+      "description": "In a recent article in The Hollywood Reporter, writer Devin Grayson and artist J.G. Jones described the insidious battle they had to fight with the lawyers and contract writers at Marvel in order to be paid for the film rights to a character they had created.…",
+      "url": "https://www.slashfilm.com/934955/marvel-comics-creators-who-deserve-credit-from-the-mcu/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/marvel-comics-creators-who-deserve-credit-from-the-mcu/l-intro-1658353078.jpg",
+      "publishedAt": "2022-07-20T21:39:30Z",
+      "content": "Characters: Star-Lord, Rocket Raccoon, Groot, Gamora, Drax the Destroyer, Yondu, Mantis, Nebula.\r\nFirst Appearance: The original version of the Guardians of the Galaxy first appeared in \"Marvel Super… [+1438 chars]"
+    },
+    {
+      "source": { "id": null, "name": "/FILM" },
+      "author": "Jeremy Mathai",
+      "title": "Thor: Love And Thunder Trailer: Meet The Goats Of The Galaxy",
+      "description": "Remember those dark days when \"Thor: Love and Thunder\" was mere months away from release and we'd still hardly seen a second of actual footage from the upcoming Taika Waititi-directed superhero movie? That's long behind us now and Marvel seems keen on making …",
+      "url": "https://www.slashfilm.com/905182/thor-love-and-thunder-trailer-meet-the-goats-of-the-galaxy/",
+      "urlToImage": "https://www.slashfilm.com/img/gallery/thor-love-and-thunder-trailer-meet-the-goats-of-the-galaxy/l-intro-1656002497.jpg",
+      "publishedAt": "2022-06-23T16:45:09Z",
+      "content": "\"There's a maniac who seeks to end us all. I'm putting together the greatest team ever.\"\r\nWe're not sure that we agree with Thor 100% on his police work there, but he's definitely right on the mark w… [+1114 chars]"
+    }
+  ]
+}

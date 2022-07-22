@@ -10,7 +10,7 @@ import { ActivatedRoute } from '@angular/router';
 @Component({
   selector: 'app-movie-details',
   templateUrl: './movie-details.component.html',
-  styleUrls: ['./movie-details.component.scss']
+  styleUrls: ['./movie-details.component.scss'],
 })
 export class MovieDetailsComponent implements OnInit {
   movie: OMDBMovie;
@@ -23,7 +23,7 @@ export class MovieDetailsComponent implements OnInit {
     private youtubeService: YoutubeService,
     private newsService: NewsService,
     private activatedRoute: ActivatedRoute
-  ) { }
+  ) {}
 
   ngOnInit(): void {
     this.loadMovie();
@@ -31,16 +31,15 @@ export class MovieDetailsComponent implements OnInit {
 
   loadMovie(): void {
     const id = this.activatedRoute.snapshot.paramMap.get('id');
-    this.movieService.getMovie(id).subscribe(response => {
+    this.movieService.getMovie(id).subscribe((response) => {
       this.movie = response;
       this.loadTrailers();
       this.loadNews(this.movie.Title);
     });
-
   }
 
   loadTrailers(): void {
-    this.youtubeService.getTrailer(this.movie.Title).subscribe(res => {
+    this.youtubeService.getTrailer(this.movie.Title).subscribe((res) => {
       if (res.items.length > 0) {
         this.trailers = res.items;
         this.trailerExists = true;
@@ -49,8 +48,10 @@ export class MovieDetailsComponent implements OnInit {
   }
 
   loadNews(title: string): void {
-    this.newsService.getMovieNewsByTitle(title).subscribe(response => {
-      this.movieArticles = response.articles;
+    this.newsService.getMovieNewsByTitle(title).then((response) => {
+      response.json().then((res) => {
+        this.movieArticles = res.articles;
+      });
     });
   }
 

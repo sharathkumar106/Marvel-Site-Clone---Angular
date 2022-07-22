@@ -4,7 +4,7 @@
     <figure class="banner-image">
       <img src="https://source.unsplash.com/1200x500/?marvel,movies,hollywood" alt="Banner">
     </figure>
-    <div class="banner-text">
+    <div class="banner-text" *ngIf="movie">
       <h3 class="banner-heading">{{movie.Title}}</h3>
       <p class="banner-info"><em>{{movie.Year}}</em></p>
     </div>
@@ -18,20 +18,19 @@
         <img src="../../../assets/EmptyBox.jpg" alt="Empty">
       </div>
       <div class="trailer-box col-sm-12 col-md-8" *ngIf="trailerExists">
-        <iframe [src]="getTrailerLink(0) | safe"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
+        <iframe [src]="getTrailerLink(0) | safe" allowfullscreen></iframe>
       </div>
       <div class="extras col-sm-12 col-md-4" *ngIf="trailerExists">
         <iframe class="col-sm-12" [src]="getTrailerLink(1) | safe"></iframe>
         <iframe class="col-sm-12" [src]="getTrailerLink(2) | safe"></iframe>
       </div>
     </div>
-    <div class="section-content col-sm-10 col-md-8 col-lg-6">
+    <div class="section-content col-sm-10 col-md-8 col-lg-6" *ngIf="movie">
       <h6 class="lead">Trailers &amp; Extras</h6>
       <h4 class="title">{{movie.Title || 'N/A'}}</h4>
       <p class="plot">{{movie.Plot || 'N/A'}}</p>
     </div>
+    <h3 *ngIf="!movie">...</h3>
   </div>
   <!-- Trailer End -->
   <!-- Details Start -->
@@ -41,7 +40,7 @@
     <!-- Details Container -->
     <div class="section-container">
       <h4 class="section-header">Overview</h4>
-      <div class="row">
+      <div class="row" *ngIf="movie">
         <!-- Metadata -->
         <div class="col-sm-12 col-md-8">
           <p class="plot">{{movie.Plot}}</p>
@@ -83,6 +82,9 @@
           <img src="{{movie.Poster}}" alt="{{movie.Title}}">
         </div>
       </div>
+      <div class="row" *ngIf="!movie">
+        <img src="../../../assets/EmptyBox.jpg" alt="Empty">
+      </div>
     </div>
   </div>
   <!-- Details End -->
@@ -93,8 +95,8 @@
     </div>
   </div>
   <!-- News Start -->
-  <div class="container section-news">
-    <h4 class="section-header">{{movie.Title}} News</h4>
+  <div class="container section-news" *ngIf="movieArticles">
+    <h4 class="section-header">{{movie.Title}} News (Dummy Data)</h4>
     <!-- Main Article -->
     <div class="row main-article col-12">
       <div class="article-image col-sm-12 col-md-6">
@@ -117,6 +119,9 @@
         </figcaption>
       </figure>
     </div>
+  </div>
+  <div class="container section-news" *ngIf="!movieArticles || !movieArticles.length">
+    <img src="../../../assets/EmptyBox.jpg" alt="Empty">
   </div>
   <!-- News End -->
   <!-- Credits Start -->
